@@ -1,7 +1,7 @@
 name: JParryPhotography
 favicon: null
-layout_spectrum: 0.32099599903449416
-typography_spectrum: 0.5971198361366987
+layout_spectrum: 1
+typography_spectrum: 0.58975
 title: Photography by Joseph Parry
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.02450155303813517
-  lightness: 0.678780920105055
-  saturation: 0.20708154793828726
-  rhythmicContrast: 0.10776054346933961
+    - '#ead8c4'
+    - '#36312f'
+    - '#e3bb81'
+    - '#997552'
+    - '#735742'
+  brandStrength: 0.6875
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
