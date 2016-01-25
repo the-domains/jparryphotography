@@ -1,7 +1,7 @@
 name: JParryPhotography
 favicon: null
-layout_spectrum: 0.0012426048051565886
-typography_spectrum: 0.5915155550464988
+layout_spectrum: 0.055482310708612204
+typography_spectrum: 0.8987565615680069
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6069817231036723
-  lightness: 0.49894919409416616
-  saturation: 0.4303914615884423
-  rhythmicContrast: 0.644706460647285
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7403799365274608
+  lightness: 0.06272946111857891
+  saturation: 0.4513060082681477
+  rhythmicContrast: 0.5117516324389726
 purpose: []
